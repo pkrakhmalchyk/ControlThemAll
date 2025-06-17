@@ -1,0 +1,25 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.StraightInputAimConfig, Assembly-CSharp",
+      "MaxRange": 10.0
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackActiveConfig, Assembly-CSharp"
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackForceHigherThanConfig, Assembly-CSharp",
+      "MinAttackForce": 5.0
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackForceInDirectionConfig, Assembly-CSharp",
+      "AttackDirection": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

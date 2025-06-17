@@ -1,0 +1,31 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackSelfConfig, Assembly-CSharp",
+      "AttackTarget": "Parent",
+      "Damage": {
+        "FloatDamage": 0.0,
+        "PercentDamage": 1.0
+      }
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackInRadiusConfig, Assembly-CSharp",
+      "Damage": {
+        "FloatDamage": 40.0,
+        "PercentDamage": 0.0
+      },
+      "Radius": 2.0
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.VisualEffectInPositionConfig, Assembly-CSharp",
+      "Type": "JellyExplosion",
+      "Radius": 2.0
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.CollisionInParentBoundsDetectedConfig, Assembly-CSharp",
+      "BoundsMultiplier": 1.0
+    }
+  ]
+}

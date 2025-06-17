@@ -1,0 +1,98 @@
+[
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "-1",
+      "y": "0",
+      "z": "25"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "25"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "-2",
+      "y": "0",
+      "z": "40"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "40"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-1",
+      "y": "0",
+      "z": "65"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "65"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-2",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "0",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  }
+]

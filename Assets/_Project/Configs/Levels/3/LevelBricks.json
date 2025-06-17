@@ -1,0 +1,119 @@
+[
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": 2.5,
+      "y": -0.5,
+      "z": 70.0
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 20.0
+    }
+  },
+  {
+    "GameplayLayer": "Yellow",
+    "Position": {
+      "x": -2.5,
+      "y": -0.5,
+      "z": 70.0
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 20.0
+    }
+  },
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": -2.5,
+      "y": -0.5,
+      "z": 40.0
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 40.0
+    }
+  },
+  {
+    "GameplayLayer": "Yellow",
+    "Position": {
+      "x": 2.5,
+      "y": -0.5,
+      "z": 2.5
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 25.0
+    }
+  },
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": -2.5,
+      "y": -0.5,
+      "z": 2.5
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 25.0
+    }
+  },
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": 2.5,
+      "y": -0.5,
+      "z": 37.5
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 45.0
+    }
+  },
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": -2.5,
+      "y": -0.5,
+      "z": 37.5
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 45.0
+    }
+  },
+  {
+    "GameplayLayer": "Yellow",
+    "Position": {
+      "x": -2.5,
+      "y": -0.5,
+      "z": 70.0
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 20.0
+    }
+  },
+  {
+    "GameplayLayer": "Red",
+    "Position": {
+      "x": 2.5,
+      "y": -0.5,
+      "z": 70.0
+    },
+    "Scale": {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 20.0
+    }
+  }
+]

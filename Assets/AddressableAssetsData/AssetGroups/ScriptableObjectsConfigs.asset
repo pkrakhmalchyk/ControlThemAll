@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScriptableObjectsConfigs
+  m_EditorClassIdentifier: 
+  m_GroupName: ScriptableObjectsConfigs
+  m_GUID: 91bf0d1609394449284bcc6c95f2510a
+  m_SerializeEntries:
+  - m_GUID: ab49bf11f98a149f4921d34f5b675d79
+    m_Address: EnemiesWeapons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - enemiesWeaponsConfigs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b54be458196950741a075bb84cd613d0
+    m_Address: Particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - particlesConfigs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8e7cbbef6e4c4396a3723f9ae3a2b47
+    m_Address: PlayersWeapons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - playersWeaponsConfigs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc1b5d587924bb24ebcd2ca08f3cce81
+    m_Address: Enemies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - enemiesConfigs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bd2a6e55b864b45d58213db9275e15b6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c83b3dc5f093449e8bc8a71f2cc2a22d, type: 2}
+    - {fileID: 11400000, guid: 555f5cd9f38d24d64bfee7eb16e309f3, type: 2}

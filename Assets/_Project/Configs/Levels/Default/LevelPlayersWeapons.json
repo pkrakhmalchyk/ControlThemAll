@@ -1,0 +1,14 @@
+[
+	{
+		"WeaponId": "StraightBulletShotPlayerWeapon",
+		"Count": 18
+	},
+	{
+		"WeaponId": "StraightGameplayLayerChangeBulletShotPlayerWeapon",
+		"Count": 4
+	},
+	{
+		"WeaponId": "BallisticAttackBombShotPlayerWeapon",
+		"Count": 6
+	}
+]

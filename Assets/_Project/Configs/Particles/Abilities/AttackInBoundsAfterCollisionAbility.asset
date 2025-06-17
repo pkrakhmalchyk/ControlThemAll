@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ded0f7f011421689a8eebbfd9c4465, type: 3}
+  m_Name: AttackInBoundsAfterCollisionAbility
+  m_EditorClassIdentifier: 
+  Config:
+    componentsConfigs:
+    - rid: 1169357060310827426
+    - rid: 1169357060310827430
+    conditionsConfigs:
+    - rid: 1169357060310827425
+  references:
+    version: 2
+    RefIds:
+    - rid: 1169357060310827425
+      type: {class: CollisionInBoundsDetectedConfig, ns: ControllThemAll.Runtime.Gameplay,
+        asm: Assembly-CSharp}
+      data:
+        BoundsMultiplier: 1
+    - rid: 1169357060310827426
+      type: {class: AttackInBoundsConfig, ns: ControllThemAll.Runtime.Gameplay, asm: Assembly-CSharp}
+      data:
+        Damage:
+          FloatDamage: 40
+          PercentDamage: 0
+        BoundsMultiplier: 1
+    - rid: 1169357060310827430
+      type: {class: VisualEffectInPositionConfig, ns: ControllThemAll.Runtime.Gameplay,
+        asm: Assembly-CSharp}
+      data:
+        Type: 0
+        Radius: 0

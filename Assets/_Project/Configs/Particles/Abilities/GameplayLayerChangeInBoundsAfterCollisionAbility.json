@@ -1,0 +1,15 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.GameplayLayerChangeInBoundsConfig, Assembly-CSharp",
+      "Duration": 3.0,
+      "BoundsMultiplier": 1.0
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.CollisionInBoundsDetectedConfig, Assembly-CSharp",
+      "BoundsMultiplier": 1.0
+    }
+  ]
+}

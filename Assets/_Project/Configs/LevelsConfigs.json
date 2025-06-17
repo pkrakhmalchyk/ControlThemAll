@@ -1,0 +1,14 @@
+[
+  {
+    "LevelName": "1",
+    "LevelConfigsPath": "TextConfigs/Levels/1"
+  },
+  {
+    "LevelName": "2",
+    "LevelConfigsPath": "TextConfigs/Levels/2"
+  },
+  {
+    "LevelName": "3",
+    "LevelConfigsPath": "TextConfigs/Levels/3"
+  }
+]

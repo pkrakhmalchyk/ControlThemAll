@@ -1,0 +1,25 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.StraightInputShootConfig, Assembly-CSharp",
+      "ParticleId": "GameplayLayerChangeBulletParticle"
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackFinishedConfig, Assembly-CSharp"
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackForceHigherThanConfig, Assembly-CSharp",
+      "MinAttackForce": 5.0
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackForceInDirectionConfig, Assembly-CSharp",
+      "AttackDirection": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

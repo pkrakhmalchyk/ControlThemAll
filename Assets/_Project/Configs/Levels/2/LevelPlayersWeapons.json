@@ -1,0 +1,10 @@
+[
+	{
+		"WeaponId": "BallisticAttackBombShotPlayerWeapon",
+		"Count": 6
+	},
+	{
+		"WeaponId": "StraightBulletShotPlayerWeapon",
+		"Count": 30
+	}
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "-2",
+      "y": "0",
+      "z": "26"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "TurtleEnemy",
+    "WeaponId": "ChangeLastAttackerGameplayLayerToOwnerWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "26"
+    },
+    "MaxHealth": 75,
+    "Health": 75
+  },
+  {
+    "EnemyId": "TurtleEnemy",
+    "WeaponId": "ChangeLastAttackerGameplayLayerToOwnerWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "50"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "52"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "3",
+      "y": "0",
+      "z": "52"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-3",
+      "y": "0",
+      "z": "52"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-1",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  }
+]

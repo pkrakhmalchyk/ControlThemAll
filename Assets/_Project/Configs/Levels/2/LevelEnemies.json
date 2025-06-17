@@ -1,0 +1,170 @@
+[
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "-2",
+      "y": "0",
+      "z": "25"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "25"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "3",
+      "y": "0",
+      "z": "25"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "27"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "45"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "47"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "3",
+      "y": "0",
+      "z": "47"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-3",
+      "y": "0",
+      "z": "46"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-1",
+      "y": "0",
+      "z": "65"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "65"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "1",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "3",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-3",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "EnemyId": "SlimeEnemy",
+    "WeaponId": "AttackInRadiusAfterCollisionAndDestroyEnemyWeapon",
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "-1",
+      "y": "0",
+      "z": "78"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  }
+]

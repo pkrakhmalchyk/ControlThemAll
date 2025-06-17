@@ -1,0 +1,14 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackerParentGameplayLayerChangeToOwnerConfig, Assembly-CSharp",
+      "Duration": 5.0
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AfterAttackedConfig, Assembly-CSharp",
+      "AttackTarget": "Parent"
+    }
+  ]
+}

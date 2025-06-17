@@ -1,0 +1,22 @@
+[
+  {
+    "GameplayLayer": "Red",
+    "SpawnPoint": {
+      "x": "-2",
+      "y": "0",
+      "z": "0"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  },
+  {
+    "GameplayLayer": "Yellow",
+    "SpawnPoint": {
+      "x": "2",
+      "y": "0",
+      "z": "0"
+    },
+    "MaxHealth": 100,
+    "Health": 100
+  }
+]

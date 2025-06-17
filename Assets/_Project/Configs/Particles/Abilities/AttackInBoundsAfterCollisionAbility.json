@@ -1,0 +1,23 @@
+{
+  "ComponentsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.AttackInBoundsConfig, Assembly-CSharp",
+      "Damage": {
+        "FloatDamage": 40.0,
+        "PercentDamage": 0.0
+      },
+      "BoundsMultiplier": 1.0
+    },
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.VisualEffectInPositionConfig, Assembly-CSharp",
+      "Type": "JellyHit",
+      "Radius": 0.0
+    }
+  ],
+  "ConditionsConfigs": [
+    {
+      "$type": "ControllThemAll.Runtime.Gameplay.CollisionInBoundsDetectedConfig, Assembly-CSharp",
+      "BoundsMultiplier": 1.0
+    }
+  ]
+}
